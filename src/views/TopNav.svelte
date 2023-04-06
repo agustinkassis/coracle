@@ -24,7 +24,7 @@
   <div class="flex items-center gap-4">
     <Anchor external type="unstyled" href="https://coracle.social" class="flex items-center gap-2">
       <img alt="Coracle Logo" src="/images/logo.png" class="w-8" />
-      <h1 class="staatliches text-3xl">Coracle</h1>
+      <h1 class="staatliches text-3xl">LA CRYPTA</h1>
     </Anchor>
     <i class="fa fa-lightbulb cursor-pointer text-lg" on:click={toggleTheme} />
   </div>
