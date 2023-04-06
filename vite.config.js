@@ -27,8 +27,8 @@ export default defineConfig({
       registerType: "autoUpdate",
       injectRegister: "auto",
       manifest: {
-        name: "Coracle",
-        short_name: "Coracle",
+        name: "La Crypta",
+        short_name: "LaCrypta",
         description: "Nostr, your way.",
         theme_color: "#EB5E28",
         icons: [
